@@ -1,0 +1,99 @@
+[{
+        "sl_no": 1,
+        "name": "Rice",
+        "qty": 5,
+        "unit": "Kg",
+        "department": "Grains/Pulses",
+        "notes": "Matta"
+    },
+    {
+        "sl_no": 2,
+        "name": "Basmati Rice",
+        "qty": 2,
+        "unit": "Kg",
+        "department": "Grains/Pulses",
+        "notes": "India Gate"
+    },
+    {
+        "sl_no": 3,
+        "name": "Wheat Flour (Atta)",
+        "qty": 2,
+        "unit": "Kg",
+        "department": "Grains/Pulses",
+        "notes": "Ashirvad"
+    },
+    {
+        "sl_no": 4,
+        "name": "Apple",
+        "qty": 1,
+        "unit": "Kg",
+        "department": "Fruits/Veggies",
+        "notes": "Fresh"
+    },
+    {
+        "sl_no": 5,
+        "name": "Tomato",
+        "qty": 1,
+        "unit": "Kg",
+        "department": "Fruits/Veggies",
+        "notes": "Fresh"
+    },
+    {
+        "sl_no": 6,
+        "name": "Potato",
+        "qty": 1,
+        "unit": "Kg",
+        "department": "Fruits/Veggies",
+        "notes": "Fresh"
+    },
+    {
+        "sl_no": 7,
+        "name": "Onion",
+        "qty": 1,
+        "unit": "Kg",
+        "department": "Fruits/Veggies",
+        "notes": "Fresh"
+    },
+
+    {
+        "sl_no": 8,
+        "name": "Bread",
+        "qty": 1,
+        "unit": "Packet",
+        "department": "Bakery",
+        "notes": "Elite"
+    },
+    {
+        "sl_no": 9,
+        "name": "Cake",
+        "qty": 1,
+        "unit": "Kg",
+        "department": "Bakery",
+        "notes": "Chocolate"
+    },
+    {
+        "sl_no": 10,
+        "name": "Cookies",
+        "qty": 2,
+        "unit": "Packet",
+        "department": "Bakery",
+        "notes": "Coconut cookie"
+    },
+    {
+        "sl_no": 11,
+        "name": "Orange",
+        "qty": 2,
+        "unit": "Kg",
+        "department": "Fruits/Veggies",
+        "notes": "Fresh"
+    }
+
+
+
+
+
+
+
+
+
+]
